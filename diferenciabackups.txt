@@ -1,0 +1,1 @@
+Al realizar bakup con la opción -a, sólo hace un backup de los datos y no asi del esquema de la base de datos, en cambio al realizar el backup con la opción -v crea respaldo un archivo detallado de toda la base de datos, incluye los datos y el esquema, muestra comentarios con información de tiempos y errores.
