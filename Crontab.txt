@@ -1,0 +1,8 @@
+#Añadir esta línea a crontab
+#Utilizando el comando crontab -e ingresar al archivo y añadir al final del archivo esta línea
+00 23 * * * /var/lib/postgresql/backup.sh
+#Se realizara el backup a las 23:00 todos los días
+#/var/lib/postgresql  directorio donde esta el archivo que realiza los backups
+#backup.sh archivo que contiene obtiene el backup
+
+
