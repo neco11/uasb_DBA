@@ -1,0 +1,337 @@
+INFO:  index "pg_class_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_class_relname_nsp_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_class_tblspc_relfilenode_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_class» fue reindexada
+INFO:  index "Playlist_pkey" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  la tabla «public.Playlist» fue reindexada
+INFO:  index "Track_pkey" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «public.Track» fue reindexada
+INFO:  index "pg_statistic_relid_att_inh_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  index "pg_toast_2619_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_statistic» fue reindexada
+INFO:  index "pg_type_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_type_typname_nsp_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_type» fue reindexada
+INFO:  index "Invoice_pkey" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  index "pg_toast_16843_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  la tabla «public.Invoice» fue reindexada
+INFO:  index "Employee_pkey" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_toast_16830_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  la tabla «public.Employee» fue reindexada
+INFO:  index "InvoiceLine_pkey" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.06 sec.
+INFO:  la tabla «public.InvoiceLine» fue reindexada
+INFO:  index "Customer_pkey" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_toast_16822_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «public.Customer» fue reindexada
+INFO:  index "Artist_pkey" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  la tabla «public.Artist» fue reindexada
+INFO:  index "Album_pkey" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «public.Album» fue reindexada
+INFO:  index "pg_authid_rolname_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_authid_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_authid» fue reindexada
+INFO:  index "Genre_pkey" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «public.Genre» fue reindexada
+INFO:  index "MediaType_pkey" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  la tabla «public.MediaType» fue reindexada
+INFO:  index "pg_user_mapping_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  index "pg_user_mapping_user_server_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_user_mapping» fue reindexada
+INFO:  index "pg_largeobject_loid_pn_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  la tabla «pg_catalog.pg_largeobject» fue reindexada
+INFO:  index "pg_attribute_relid_attnam_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  index "pg_attribute_relid_attnum_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_attribute» fue reindexada
+INFO:  index "pg_proc_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_proc_proname_args_nsp_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_toast_1255_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_proc» fue reindexada
+INFO:  index "pg_attrdef_adrelid_adnum_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  index "pg_attrdef_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_toast_2604_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_attrdef» fue reindexada
+INFO:  index "pg_constraint_conname_nsp_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_constraint_conrelid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_constraint_contypid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  index "pg_constraint_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  index "pg_toast_2606_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_constraint» fue reindexada
+INFO:  index "pg_inherits_parent_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  index "pg_inherits_relid_seqno_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.06 sec.
+INFO:  la tabla «pg_catalog.pg_inherits» fue reindexada
+INFO:  index "pg_index_indrelid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_index_indexrelid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_index» fue reindexada
+INFO:  index "pg_operator_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_operator_oprname_l_r_n_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_operator» fue reindexada
+INFO:  index "pg_opfamily_am_name_nsp_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_opfamily_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_opfamily» fue reindexada
+INFO:  index "pg_opclass_am_name_nsp_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  index "pg_opclass_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  la tabla «pg_catalog.pg_opclass» fue reindexada
+INFO:  index "pg_am_name_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  index "pg_am_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  la tabla «pg_catalog.pg_am» fue reindexada
+INFO:  index "pg_amop_fam_strat_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  index "pg_amop_opr_fam_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  index "pg_amop_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_amop» fue reindexada
+INFO:  index "pg_amproc_fam_proc_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_amproc_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_amproc» fue reindexada
+INFO:  index "pg_language_name_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_language_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_language» fue reindexada
+INFO:  index "pg_largeobject_metadata_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  la tabla «pg_catalog.pg_largeobject_metadata» fue reindexada
+INFO:  index "pg_aggregate_fnoid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_aggregate» fue reindexada
+INFO:  index "pg_rewrite_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_rewrite_rel_rulename_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_toast_2618_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_rewrite» fue reindexada
+INFO:  index "pg_trigger_tgconstraint_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  index "pg_trigger_tgrelid_tgname_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_trigger_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_toast_2620_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_trigger» fue reindexada
+INFO:  index "pg_event_trigger_evtname_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_event_trigger_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_event_trigger» fue reindexada
+INFO:  index "pg_description_o_c_o_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  index "pg_toast_2609_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_description» fue reindexada
+INFO:  index "pg_cast_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  index "pg_cast_source_target_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_cast» fue reindexada
+INFO:  index "pg_enum_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_enum_typid_label_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_enum_typid_sortorder_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  la tabla «pg_catalog.pg_enum» fue reindexada
+INFO:  index "pg_namespace_nspname_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  index "pg_namespace_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_namespace» fue reindexada
+INFO:  index "pg_conversion_default_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_conversion_name_nsp_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  index "pg_conversion_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  la tabla «pg_catalog.pg_conversion» fue reindexada
+INFO:  index "pg_depend_depender_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_depend_reference_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_depend» fue reindexada
+INFO:  index "pg_db_role_setting_databaseid_rol_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_toast_2964_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_db_role_setting» fue reindexada
+INFO:  index "pg_tablespace_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  index "pg_tablespace_spcname_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  la tabla «pg_catalog.pg_tablespace» fue reindexada
+INFO:  index "pg_pltemplate_name_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_pltemplate» fue reindexada
+INFO:  index "pg_auth_members_role_member_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_auth_members_member_role_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_auth_members» fue reindexada
+INFO:  index "pg_shdepend_depender_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  index "pg_shdepend_reference_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_shdepend» fue reindexada
+INFO:  index "pg_shdescription_o_c_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  index "pg_toast_2396_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_shdescription» fue reindexada
+INFO:  index "pg_ts_config_cfgname_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_ts_config_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  la tabla «pg_catalog.pg_ts_config» fue reindexada
+INFO:  index "pg_ts_config_map_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  la tabla «pg_catalog.pg_ts_config_map» fue reindexada
+INFO:  index "pg_ts_dict_dictname_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  index "pg_ts_dict_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  la tabla «pg_catalog.pg_ts_dict» fue reindexada
+INFO:  index "pg_ts_parser_prsname_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_ts_parser_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  la tabla «pg_catalog.pg_ts_parser» fue reindexada
+INFO:  index "pg_ts_template_tmplname_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_ts_template_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.06 sec.
+INFO:  la tabla «pg_catalog.pg_ts_template» fue reindexada
+INFO:  index "pg_extension_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  index "pg_extension_name_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_extension» fue reindexada
+INFO:  index "pg_foreign_data_wrapper_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  index "pg_foreign_data_wrapper_name_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_foreign_data_wrapper» fue reindexada
+INFO:  index "pg_foreign_server_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_foreign_server_name_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_foreign_server» fue reindexada
+INFO:  index "pg_foreign_table_relid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_foreign_table» fue reindexada
+INFO:  index "pg_policy_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_policy_polrelid_polname_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_policy» fue reindexada
+INFO:  index "pg_replication_origin_roiident_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_replication_origin_roname_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  la tabla «pg_catalog.pg_replication_origin» fue reindexada
+INFO:  index "pg_default_acl_role_nsp_obj_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_default_acl_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  la tabla «pg_catalog.pg_default_acl» fue reindexada
+INFO:  index "pg_seclabel_object_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  index "pg_toast_3596_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.06 sec.
+INFO:  la tabla «pg_catalog.pg_seclabel» fue reindexada
+INFO:  index "pg_shseclabel_object_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  index "pg_toast_3592_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_shseclabel» fue reindexada
+INFO:  index "pg_collation_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_collation_name_enc_nsp_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_collation» fue reindexada
+INFO:  index "pg_range_rngtypid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_range» fue reindexada
+INFO:  index "pg_transform_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_transform_type_lang_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_transform» fue reindexada
+INFO:  index "pg_database_datname_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  index "pg_database_oid_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «pg_catalog.pg_database» fue reindexada
+INFO:  index "pg_toast_12284_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.05 sec.
+INFO:  la tabla «information_schema.sql_features» fue reindexada
+INFO:  index "pg_toast_12289_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «information_schema.sql_implementation_info» fue reindexada
+INFO:  index "pg_toast_12294_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  la tabla «information_schema.sql_languages» fue reindexada
+INFO:  index "pg_toast_12299_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  la tabla «information_schema.sql_packages» fue reindexada
+INFO:  index "pg_toast_12304_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  la tabla «information_schema.sql_parts» fue reindexada
+INFO:  index "pg_toast_12309_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.03 sec.
+INFO:  la tabla «information_schema.sql_sizing» fue reindexada
+INFO:  index "pg_toast_12314_index" was reindexed
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.04 sec.
+INFO:  la tabla «information_schema.sql_sizing_profiles» fue reindexada
